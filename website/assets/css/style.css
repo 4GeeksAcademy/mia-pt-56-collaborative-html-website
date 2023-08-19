@@ -19,3 +19,12 @@ h5 {
    color: blue;
    
 }
+img {
+    border-radius: 50%;
+  }
+  black-text {
+    color: black;
+  }
+  .gray-text {
+    color: gray;
+  }
