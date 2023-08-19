@@ -7,3 +7,11 @@ body{
 .container {
     background-color: #fff;
 }
+
+#tagline-header-1 {
+    font-size: 7rem
+}
+
+#tagline-header-2 {
+    font-size: 4rem
+}
