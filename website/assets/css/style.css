@@ -7,3 +7,12 @@ body{
 .container {
     background-color: #fff;
 }
+img {
+    border-radius: 50%;
+  }
+  black-text {
+    color: black;
+  }
+  .gray-text {
+    color: gray;
+  }
