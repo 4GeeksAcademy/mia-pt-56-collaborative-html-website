@@ -1,5 +1,5 @@
 body{
-    background: #43464B;
+    background: black;
     margin: auto;
     top: 0;
 }
@@ -16,12 +16,9 @@ body{
     font-size: 4rem
 }
 h5 {
-   color:rgb(87, 144, 164)
+   color:#3D73A2
    
 }
-img {
-    border-radius: 50%;
-  }
   black-text {
     color: black;
   }
