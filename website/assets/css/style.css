@@ -6,4 +6,25 @@ body{
 
 .container {
     background-color: #fff;
+
 }
+
+img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+  }
+  .tag {
+    font-family: Arial;
+    font-size: 150px;
+    animation: fadeIn 5s;
+  }
+  .content{
+    margin: 79px 0px 0px 257px;
+  }
+  .imgbox{
+    margin:169px 158px 0px 0px;
+  }
+  .left{
+    width: 106%;
+  }
